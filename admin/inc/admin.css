@@ -1,0 +1,9 @@
+.controls {
+  float: left;
+  width: 50px;
+  margin-left: -50px;
+}
+.controls IMG {
+  vertical-align: middle;
+  margin: 0 2px;
+}
