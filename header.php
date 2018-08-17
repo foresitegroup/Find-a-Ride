@@ -15,7 +15,7 @@ function email($address, $name="") {
   <META http-equiv="pragma" content="no-cache">
   <META http-equiv="imagetoolbar" content="no">
   <META name="language" content="en">
-  <META name="author" content="Remedi Creative">
+  <META name="author" content="Foresite Group">
   <META name="description" content="<?php if ($Description != "") { echo $Description; } ?>">
   <META name="keywords" content="Waukesha transportation, waukesha, transportation, senior, disabled, <?php if ($Keywords != "") { echo $Keywords; } ?>">
   <title>Find-a-Ride Waukesha<?php if ($PageTitle != "") { echo " | " . $PageTitle; } ?></title>
